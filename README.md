@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @max-uqu
-- 👀 I’m interested in cold wallet programs
-- 🌱 I’m currently learning Programming in the crypto area
+- 👀 I’m interested in Smart Contracts
+- 🌱 I’m currently learning Solidity and Vyper
 - 💞️ I’m looking to collaborate on my start-up idea
 - 📫 How to reach me info@uniqu-tech.de
 
