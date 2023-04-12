@@ -2,7 +2,6 @@
 - 👀 I’m interested in Smart Contracts
 - 🌱 I’m currently learning Solidity and Python
 - 💞️ I’m looking to collaborate on my start-up idea
-- 📫 How to reach me info@uniqu-tech.de
 
 <!---
 max-uqu/max-uqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
